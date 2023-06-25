@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Berburu Makanan</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="username">username</string>
+    <string name="password">Password</string>
+    <string name="inpassword">Masukkan Password anda</string>
+    <string name="inusername">Masukkan username anda</string>
+    <string name="login">Login</string>
+    <string name="regis1">New here welcome</string>
+    <string name="regis2">Please fill the form to continue</string>
+    <string name="fullname">Nama Lengkap</string>
+    <string name="namalengkap">Masukkan nama lengkap anda</string>
+    <string name="daftarregis">Daftar pengguna baru</string>
+    <string name="ready">Sudah Punya Akun ?</string>
+    <string name="belum">Belum punya akun ?</string>
+    <string name="buat">Buat akun</string>
+    <string name="order">Makanan apa yang ingin kamu makan hari ini</string>
+    <string name="search">search food</string>
+    <string name="alamat">Semarang, ungaran</string>
+    <string name="menu">Menu yang ada</string>
+</resources>
